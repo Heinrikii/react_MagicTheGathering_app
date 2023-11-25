@@ -1,0 +1,9 @@
+.p-datatable {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+/* Exemplo de estilo para as células da tabela */
+.p-datatable .p-datatable-tbody td {
+    text-align: left;
+}
